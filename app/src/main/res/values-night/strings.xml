@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nota_txt_remover">Remover</string>
+    <string name="note_title_hint">Título</string>
+    <string name="nota_descricao_hint">Descrição</string>
+</resources>
